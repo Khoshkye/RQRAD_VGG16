@@ -1,2 +1,2 @@
-# RQRAD_VGG16
-Répertoire de réseaux neuronaux convolutifs (modèle basé sur l'architecture VGG16) pour les données agricoles
+# RQRAD_FORMATION
+Répertoire de réseaux neuronaux convolutifs (modèle basé sur l'architecture VGG16) et LSTM pour les données agricoles
